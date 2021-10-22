@@ -1,9 +1,9 @@
-##Sudoku Backend: 
+## Sudoku Backend:
 - Rest Endpoint for accepting sudokus from the toolbox-website
 - highly parallel execution
 - uses spring + java
 
-###Usage
+### Usage
 
 Define /src/main/resources/application.properties containing:
 
